@@ -10,11 +10,7 @@ Please do the following:
 Part 2: Write Your Own Examples
 Write their own code that demonstrates:
   - One example of implicit type conversion.
-  
-  
-
   - One example of explicit type conversion.
-
   *We encourage you to:
 Include at least one edge case, like NaN, undefined, or null .
 Use console.log() to clearly show the before-and-after type conversions.
@@ -33,6 +29,7 @@ if (isValid) {
 let age = "25";
 let totalAge = age + 5;
 console.log("Total Age: " + totalAge);
+<<<<<<< HEAD
 
 
 let result = Number("5") - 2;
@@ -74,3 +71,5 @@ let result = Boolean(value
 console.log(typeof result);
 )
 
+=======
+>>>>>>> upstream/main
